@@ -1,0 +1,55 @@
+@media only screen and (min-width: 768px) {
+   LandingPage  {
+      display: flex;
+    }
+   LandingPage {
+      opacity: 1;
+    }
+    Header  {
+      display:none;
+    }
+  
+    Header  {
+      max-height: 300px
+    }
+  } 
+  
+  @media only screen and (min-width: 1024px) {
+  
+    .Header {
+      text-align:left;
+      margin-left:5%;
+      width:480px;
+    }
+  
+    .Header {
+      display:flex;
+    }
+  
+    .HeadPage{
+      display:block;
+    }
+  
+    .HeadPage {
+      display:none;
+    }
+  
+   Footer {
+      display: block;
+    }
+  
+   LandingPage{
+      display: flex;
+      min-width: 309px;
+      padding: 20px;
+    }
+    
+   LandingPage {
+      display: flex;
+    }
+  
+    LandingPage {
+      opacity: 1;
+    }
+  } 
+  

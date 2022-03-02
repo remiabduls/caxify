@@ -1,0 +1,58 @@
+.flex-row-3 {
+    
+    align-items: flex-start;
+    display: flex;
+    height: 39px;
+    margin-left:50px;
+    margin-top: 75px;
+    min-width: 1394px;
+    z-index: 19;
+  }
+  
+  .search {
+      margin-left:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 35px;
+    min-height: 39px;
+    min-width: 114px;
+    white-space: nowrap;
+  }
+  
+  .select {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-left: 321px;
+    min-height: 39px;
+    min-width: 102px;
+    white-space: nowrap;
+  }
+  
+  .subscribe {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-left: 270px;
+    min-height: 39px;
+    min-width: 163px;
+    white-space: nowrap;
+  }
+  
+  .switch {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-left: 300px;
+    min-height: 39px;
+    white-space: nowrap;
+  }
+ 

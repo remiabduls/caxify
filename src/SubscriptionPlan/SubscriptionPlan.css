@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,100;1,300&display=swap");
+.group-container {
+    
+    align-items: flex-start;
+    display: flex;
+    height: 562px;
+    margin-top: 130px;
+    min-width: 400px;
+    z-index: 10;
+}
+.group-617 {
+    margin-left:40px;
+    border: 2px solid #cee7f5;
+    align-items: flex-start;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 342px;
+    width: 439px;
+}
+.overlap-group17 {
+    background-image:url("https://images.hgmsites.net/lrg/2019-hyundai-sonata-se-2-4l-angular-front-exterior-view_100726189_l.jpg");
+    background-position: 15% 15%;
+    background-size: cover;
+    border-radius: 10px;
+    height: 217px;
+    position: relative;
+    width: 420px;
+}
+.comfort-economy {
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-left: 22px;
+    margin-top: 10px;
+    min-height: 33px;
+    white-space: nowrap;
+}
+
+.flex-row-8 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    height: 33px;
+    margin-top: 15px;
+    min-width: 491px;
+}
+
+.starting-at {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-top: 2.5px;
+    margin-left:40px;
+    min-height: 23px;
+    min-width: 122px;
+    white-space: nowrap;
+}
+
+.ngn-50000m {
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-left: 150px;
+    min-height: 33px;
+    white-space: nowrap;
+}
+.group-586 {
+    border: 2px solid #cee7f5;
+    align-items: flex-start;
+    align-self: center;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-top: 2px;
+    min-height: 346px;
+    width: 543px;
+
+}
+
+.overlap-group16 {
+    background-image:url("https://s.aolcdn.com/commerce/autodata/images/USD00MBS901A021001.jpg");
+    background-position: 20% 20%;
+    background-size: cover;
+    border-radius: 10px;
+    margin-left:25px;
+    height: 260px;
+    position: relative;
+    width: 463px;
+}
+
+.style-luxury {
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-left: 24px;
+    margin-top: 8px;
+    min-height: 33px;
+    white-space: nowrap;
+}
+
+.flex-row-9 {
+    align-items: center;
+    align-self: center;
+    display: flex;
+    height: 33px;
+    margin-left: 5px;
+    margin-top: 14px;
+    min-width: 496px;
+}
+.starting-at-1 {
+    color: sonic-silver;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-right:80px;
+    margin-bottom: 3px;
+    margin-left:45px;
+    min-height: 21px;
+    min-width: 111px;
+    white-space: nowrap;
+}
+.ngn-120000m {
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-left: 70px;
+    min-height: 33px;
+    width: 20px;
+    white-space: nowrap;
+}
+.overlap-group18 {
+    
+    align-self: flex-end;
+    border-radius: 10px;
+    height: 440px;
+    margin-bottom: 0;
+    margin-left: 30px;
+    
+    position: relative;
+    width: 538px;
+}
+
+.group-435 {
+   
+    border: 2px solid #cee7f5;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    height: 392px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 438px;
+}
+
+.honda-lease-takeover {
+    border-radius: 10px;
+    flex: 1;
+    height: 300px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: 7px;
+    object-fit: cover;
+}
+
+.rectangle-1156 {
+    border: 2px solid #2f6bd9;
+    background-color:white ;
+    padding-left:10px;
+   padding-right:5px;
+    border-radius: 25%;
+    height: 30px;
+    left: 28px;
+    position: absolute;
+    top: 28px;
+    width: 82px;
+}
+.premium {
+    left: 37px;
+    letter-spacing: 0;
+    color:#2f6bd9;
+    line-height: 26px;
+    position: absolute;
+    top: 30px;
+    white-space: nowrap;
+}
+
+.elegance-convenience {
+    left: 28px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 300px;
+    white-space: nowrap;
+}
+
+.starting-at-2 {
+    color: sonic-silver;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 350px;
+    white-space: nowrap;
+}
+
+.ngn-70000m {
+    left: 297px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 345px;
+    white-space: nowrap;
+}
+
+.place {
+    border:2px solid #2f6bd9;
+    color: #2f6bd9;
+    border-radius: 25%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:600;
+   padding-left:10px;
+   padding-right:10px;
+    font-size: 20px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 38px;
+    white-space: nowrap;
+}
+.place-1 {
+    border:2px solid #2f6bd9;
+    color: #2f6bd9;
+    border-radius: 25%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:600;
+   padding-left:10px;
+   padding-right:10px;
+    left: 41px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 32px;
+    white-space: nowrap;
+}

@@ -1,0 +1,336 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,100;1,300&display=swap");
+/* .home-6{
+    background-color: #add8e6;
+    min-height:400px;
+} */
+.some-1 {
+    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 100px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    width: 100px;
+}
+.some-questions {
+    
+    border:1px solid grey;
+    align-items: flex-start;
+    background-color:white;
+    border-radius: 5px;
+    display: flex;
+    height: 20px;
+    margin-right:150px;
+    margin-left:150px;
+    justify-content: flex-end;
+    min-width:100px;
+    padding: 10px 10px;
+    position: relative;
+}
+.somequestions{
+    border:1px solid grey;
+        align-items: flex-start;
+        background-color: white;
+        border-radius: 5px;
+        display: flex;
+        margin-right:150px;
+       margin-left:150px;
+    
+        height: 40px;
+        justify-content: flex-end;
+        margin-top: 40px;
+        min-width: 40px;
+        padding: 15px 15x;
+        position: relative;
+    
+}
+
+.question-container {
+    align-self: center;
+    height: 33px;
+    margin-right:1200px;
+    margin-top: 3px;
+    position: relative;
+    width: 20px;
+}
+.what-is-carxify{
+    
+    margin-right: 800px;
+    margin-left:200px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.ques{
+    margin-left:1150px;
+    letter-spacing: 0;
+    line-height: 30px;
+
+
+}
+
+
+
+
+.some-10 {
+    align-self: center;
+    height: 33px;
+    margin-top: 3px;
+    position: relative;
+    width: 792px;
+}
+.how-long-does-it-tak{
+    
+    margin-left:-220px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    
+}
+.ques-1{
+    margin-left:660px;
+    letter-spacing: 0;
+    line-height: 30px;
+
+
+   
+}
+.ques-back-1 {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 300px;
+    
+    min-width: 15px;
+    transform: rotate(
+-90deg
+);
+}
+
+.question-container-2 {
+    height: 15px;
+    margin-top: 0;
+    position: relative;
+    width: 38px;
+    
+}
+
+
+
+.some-11 {
+    align-self: center;
+    height: 25px;
+    margin-top: 3px;
+    position: relative;
+    width: 890px;
+}
+
+.what-are-my-liabiliti{
+    margin-right: 10px;
+    margin-left:-120px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+
+}
+.ques-2{
+    margin-left:770px;
+    letter-spacing: 0;
+    line-height: 30px;
+
+
+}
+.ques-back-1.ques-back-2 {
+    margin-left: 377px;
+    align-items: flex-start;
+    display: flex;
+    min-width: 38px;
+    transform: rotate(
+-90deg
+);
+}
+
+
+.question-container-1 {
+    align-self: center;
+    height: 33px;
+    margin-top: 3px;
+    position: relative;
+    width: 442px;
+}
+.are-the-prices-negotiable{
+   
+    margin-left:-570px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+
+}
+.ques-3{
+    margin-left:320px;
+    letter-spacing: 0;
+    line-height: 30px;
+
+}
+.ques-4{
+    margin-right:45px;
+    letter-spacing: 0;
+    line-height: 30px;
+
+}
+.ques-back-1.ques-back-3 {
+    margin-left: 825px;
+    
+    align-items: flex-start;
+    display: flex;
+    min-width: 38px;
+    transform: rotate(
+-90deg
+);}
+
+.how-can-i-track-my-c {
+    margin-right: 550px;
+    margin-left:200px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.ques-back-1.ques-back-4 {
+    margin-left: 499px;
+    align-items: flex-start;
+    display: flex;
+    min-width: 38px;
+    transform: rotate(
+-90deg
+);
+}
+.view-button-home {
+    cursor: pointer;
+    display: flex;
+    height: 31px;
+    justify-content: space-between;
+    margin-left: 700px;
+    margin-top: 71px;
+    position: relative;
+    width: 139px;
+    z-index: 4;
+}
+
+.view{
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-bottom: -2.5px;
+    margin-top: -8px;
+    text-align: center;
+    white-space: nowrap;
+    width: 104px;
+    color: #2f6bd9;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size:20px;
+    font-style: normal;
+}
+.view-106 {
+    align-items: flex-start;
+    display: flex;
+    height: 13.1px;
+    min-width: 27.65px;
+}
+.view-container-1 {
+    height: 15px;
+    margin-top: -0.78px;
+    margin-left:-10px;
+    position: relative;
+    width: 15px;
+}
+.path-234 {
+    color:#2f6bd9;
+    height: 2px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 7px;
+    width: 28px;
+}
+.path-235 {
+    color:#2f6bd9;
+    height: 15px;
+    left: 19px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 11px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,100;1,300&display=swap");
+.home3{
+    background-color:#add8e6;
+  }
+.Question{
+  
+    margin-top:30px;
+    margin-left:500px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    top: 0;
+    z-index: 100;
+
+    
+  }
+  .Questions_one{
+    color: 
+    #000000;
+    font-family: 'Josefin Sans', sans-serif;
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: 0;
+      display:flex;
+      line-height: 40px;
+      min-height: 44px;
+      white-space: nowrap;
+  }
+
+  .line-5{
+      margin-bottom:10px;
+    height: 4px;
+    object-fit: cover;
+    width: 50px;
+
+  }

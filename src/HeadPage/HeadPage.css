@@ -1,0 +1,119 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,100;1,300&display=swap");
+.home{
+  background-color: #cee7f5;
+    min-height:700px;
+}
+.landing{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   pointer-events: none;
+   width: 100%;
+  
+   min-heigth:100px;
+ 
+
+}
+.landing_car img{
+    
+    width:80%;
+    
+     
+   
+
+  
+}
+.landing__One{
+    margin-top: 140px;
+    align-items: center;
+   
+
+}
+.landing__One > h1{
+    font-size:60px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;;
+}
+.landing__One > p{
+    font-size: 38px;
+    font-weight: 400;
+    margin-left:23px;
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+
+.flex-row {
+    align-items: flex-start;
+    display: flex;
+    height: 34px;
+    margin-top: 8px;
+    min-width: 211px;
+    margin-left:40px;
+ 
+   align-items:center;
+  }
+  .landing_tick {
+    height: 40px;
+    object-fit: cover;
+    width: 40px;
+  }
+  .land_tick {
+    align-items: flex-start;
+    border-radius: 16.5px;
+    display: flex;
+    height: 0px;
+    min-width: 33px;
+    padding: 10px 10px;
+  }
+
+  
+
+  .land_text{
+    color: #000000;
+    font-family: 'Josefin Sans', sans-serif;
+      font-size: 30px;
+      font-weight:500;
+      letter-spacing: 0;
+      line-height: 30px;
+      height: 0px;
+      white-space: nowrap;
+  }
+  .flex-row1 {
+    align-items: flex-start;
+    display: flex;
+    height: 34px;
+    margin-top: 8px;
+    min-width: 211px;
+    margin-left:40px;
+   align-items:center;
+  }
+  .flex-row2 {
+    align-items: flex-start;
+    display: flex;
+    height: 34px;
+    margin-top: 8px;
+    min-width: 211px;
+    margin-left:40px;
+   align-items:center;
+   
+  }
+  
+
+  .land_button > button{
+
+    align-items: flex-start;
+    display: flex;
+    margin-left:50px;
+    margin-top: 20px;
+  
+
+      background-color: #4169e1;
+      color:white;
+      padding: 15px 32px;
+     
+  }
+  .land_button > button :hover {
+
+    color: black;
+  }

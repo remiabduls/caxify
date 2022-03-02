@@ -1,0 +1,193 @@
+.overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 394.0px;
+    margin-left:250px;
+    margin-top: 112px;
+    min-width: 38px;
+    z-index: 14;
+    
+  }
+  
+  .overlap-group30 {
+    align-items: flex-end;
+    background-color: #add8e6;
+    border-radius: 50%;
+    display: flex;
+    height: 135px;
+    justify-content: flex-end;
+    min-width: 20px;
+    padding: 23.1px 30.2px;
+  }
+  
+  .insurance {
+    height: 76px;
+    object-fit: cover;
+    width: 76px;
+  }
+  
+  .overlap-group32 {
+    align-items: flex-start;
+    background-color:#add8e6 ;
+    border-radius: 50%;
+    display: flex;
+    height: 135px;
+    justify-content: flex-end;
+    margin-left: 700px;
+    min-width: 65x;
+    padding: 23.3px 23.6px;
+  }
+  
+  .maintenance {
+    height: 76px;
+    object-fit: cover;
+    width: 76px;
+  }
+  .ance-container {
+    align-items: center;
+    display: flex;
+    height: 30px;
+    margin-left: -1000px;
+    margin-right: 5px;
+    margin-top: 150px;
+    min-width: 127px;
+    z-index: 15;
+  }
+  
+  .insurance-1 {
+      margin-left:60px;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 30px;
+      font-weight: 700;
+    letter-spacing: 0;
+    line-height: 40px;
+    min-height: 42px;
+    min-width: 42px;
+    white-space: nowrap;
+  }
+  
+  .maintenance-repairs {
+   
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+   
+    letter-spacing: 0;
+    line-height: 40px;
+    margin-left: 600px;
+    min-height: 43px;
+    min-width: 450px;
+    white-space: nowrap;
+  }
+  
+  .flex-row-5 {
+    align-items: flex-start;
+    display: flex;
+    height: 107px;
+    margin-left: 9.0px;
+    margin-top: 20px;
+    min-width: 1371px;
+    z-index: 16;
+  }
+  
+  .our {
+    letter-spacing: 0;
+    line-height: 30px;
+    min-height: 107px;
+    width: 544px;
+  }
+  
+  .you {
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-left: 283px;
+    min-height: 107px;
+    width: 544px;
+  }
+  
+  .overlap-group31 {
+    align-items: flex-start;
+    background-color: #add8e6 ;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 250px;
+    height: 135px;
+    min-width: 75px;
+    padding: 26.5px 30.7px;
+  }
+  
+  .assistance {
+    height: 80px;
+    object-fit: cover;
+    width: 72px;
+  }
+  
+  .overlap-group29 {
+    align-items: flex-start;
+    background-color: #add8e6 ;
+    border-radius: 50%;
+    display: flex;
+    height: 135px;
+    justify-content: flex-end;
+    margin-left: 686px;
+    min-width: 75px;
+    padding: 26.5px 30.7px;
+  }
+  
+  .switch-1 {
+    height: 80px;
+    object-fit: cover;
+    width: 70px;
+  }
+  
+  .flex-row-6 {
+    align-items: flex-start;
+    display: flex;
+    height: 44px;
+    margin-right: 322px;
+    margin-top: 33px;
+    min-width: 80px;
+    z-index: 12;
+  }
+  
+  .roadside-assistance {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 40px;
+    margin-right: 100px;
+    min-height: 44px;
+    min-width: 480px;
+    white-space: nowrap;
+  }
+  
+  .switch-cars {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 40px;
+    margin-left: 482px;
+    min-height: 44px;
+    white-space: nowrap;
+  }
+  
+  .flex-row-7 {
+    align-items: flex-start;
+    display: flex;
+    height: 135px;
+    margin-left: 9.0px;
+    margin-top: 20px;
+    min-width: 1371px;
+    z-index: 13;
+  }
+ .overlap-group-container-1 {
+ 
+    align-items: flex-start;
+    display: flex;
+    margin-right: 394px;
+    margin-top: 174px;
+    min-width: 968px;
+    z-index: 11;
+ }

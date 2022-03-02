@@ -1,0 +1,45 @@
+.flex-row-4 {
+    align-items: flex-start;
+    display: flex;
+    height: 155px;
+    margin-left: 3px;
+    margin-top: 24px;
+    min-width: 100px;
+    z-index: 20;
+  }
+  
+.search-from-the-list {
+    letter-spacing: 0;
+    line-height: 32px;
+    min-height: 91px;
+    text-align: center;
+    width: 258px;
+  }
+  
+  .select-your-choice-o {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 163px;
+    min-height: 155px;
+    text-align: center;
+    width: 264px;
+  }
+  
+  .subscribe-by-making {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 141px;
+    min-height: 155px;
+    text-align: center;
+    width: 313px;
+  }
+  
+  .switch-your-car-to-y {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 144px;
+    min-height: 123px;
+    text-align: center;
+    width: 258px;
+  }
+  
